@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Linha 01 funcao abc
+=======
+Linha 01 teste RAFAELA
+
+>>>>>>> 00b5830 (alteracao arquivo line.txt linha 1 rafaela)
