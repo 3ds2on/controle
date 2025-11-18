@@ -3,4 +3,4 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-return {"message": "Hello 3DS2ON !!!"}
+return {"message": "!!! Hello 3DS2ON !!!"}
